@@ -1,0 +1,9 @@
+Package: com.tinkl.hongbao
+Name: WeChatHongBao
+Depends: mobilesubstrate
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: 微信红包插件，即时抢红包，稳定、安全、快速；nicoalstinkl@gmail.com
+Maintainer: tinkl
+Author: tinkl
+Section: http://www.github.com/nicolastinkl
