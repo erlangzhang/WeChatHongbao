@@ -13,6 +13,10 @@
 ## 效果
 ![](http://odqu7qci3.bkt.clouddn.com/new_page_1.png?watermark/2/text/dGlua2w=/font/5a6L5L2T/fontsize/500/fill/I0VGRUZFRg==/dissolve/100/gravity/SouthEast/dx/10/dy/10)
 
+or
+
+[查看效果][http://odqu7qci3.bkt.clouddn.com/new_page_1.png?watermark/2/text/dGlua2w=/font/5a6L5L2T/fontsize/500/fill/I0VGRUZFRg==/dissolve/100/gravity/SouthEast/dx/10/dy/10]
+
 ## 试用 & 安装
 系统ios8.0 iphone5以上越狱或者非越狱设备： [点击安装](http://odqu7qci3.bkt.clouddn.com/33shenqi.htm)
 
